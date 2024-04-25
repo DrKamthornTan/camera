@@ -1,0 +1,2 @@
+# camera
+open local camera
